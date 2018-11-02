@@ -6,7 +6,7 @@ body {
   font-size: 4.5em;
   text-align: center;
   padding-top: 40px;
-  text-shadow: 3px 3px red;
+  text-shadow: 3.3px 3.3px yellow;
   }
 #img-caption {
   text-align: center;
@@ -18,11 +18,12 @@ body {
 }
 #timeline {
   font-family: 'Roboto', sans-serif;
+  font-size: 1rem;
   padding-right: 20px;
 }
 #image {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 90%;
+    width: 70%;
 }
